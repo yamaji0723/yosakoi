@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+body{
+    background-color: yellow;
+}
+
+.hearder1{
+    font-size: 50px;
+}
+
+.top{  
+    padding: 150px 0 100px 0;
+    background-size: cover;
+    text-align: center;
+}
+
+#top1{
+    font-size: 180px;
+}
+
+#top2{
+    color: #ff0000;
+    font-size: 150px;
+    line-height: 50px;
+}
+
+#nakami-midasi{
+    font-size: 40px;
+    padding: 25px;
+    margin-bottom: -20px;
+    color: pink;
+}
+
+#nakami-contents{
+    font-size: 16px;
+    padding: 25px;
+    margin-bottom: -20px;
+}
+
+#nakami-contents2{
+    color: blue;
+    font-size: 16px;
+    padding: 25px;
+    margin-bottom: -50px;
+    height: 100px;
+}
+
+#shasin1{
+    width: 150px;
+}
+
+.profile{
+    font-size: 18px;
+    display: inline-block;
+    padding: 0.5em 1em 0.3em;
+    color: #ff3399;
+    border: double 4px #ff3399;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+#profile-contents{
+    font-size: 16px;
+    padding: 25px;
+    margin-bottom: -20px;
+    display: none;
+}
+
+.tojiru{
+    font-size: 16px;
+    display: inline-block;
+    padding: 0.5em 1em 0.3em;
+    color: #ff3399;
+    border: double 4px #ff3399;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.practice1{
+    font-size: 16px;
+    display: inline-block;
+    padding: 0.5em 1em 0.3em;
+    color: #ff3399;
+    border: double 4px #ff3399;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+#practice-contents{
+    font-size: 16px;
+    padding: 25px;
+    margin-bottom: -20px;
+    display: none;
+}
+
+.charm{
+    font-size: 16px;
+    display: inline-block;
+    padding: 0.5em 1em 0.3em;
+    color: #ff3399;
+    border: double 4px #ff3399;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+#charm-contents{
+    font-size: 16px;
+    padding: 25px;
+    margin-bottom: -20px;
+    display: none;
+}
+
+#finishu-midasi{
+    font-size: 40px;
+    padding: 25px;
+    margin-bottom: -20px;
+    color: pink;
+}
+
+#finishu-contents{
+    font-size: 16px;
+    padding: 25px;
+    margin-bottom: -20px;
+}
